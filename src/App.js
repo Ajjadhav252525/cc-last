@@ -7,13 +7,13 @@ function App() {
       <header className="App-header">
         
         <p>
-          Vaibhav Shinde
+          Ajay Jadhav
         </p>
         <p>
-          42362
+          42127
         </p>
         <p>
-          P-8
+          P-6
         </p>
         {/* <a
           className="App-link"
